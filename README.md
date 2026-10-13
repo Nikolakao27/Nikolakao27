@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Nicholas👋😀
 
-<!--
-**Nikolakao27/Nikolakao27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at RMIT University, based in Melbourne, Australia.
 
-Here are some ideas to get you started:
+I'm interested in building real-world applications, learning more about AI & Machine Learning, and continuously improving my engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+**Languages:** Java, C++, Python, TypeScript. 
+
+**Frameworks:** React, Next.js
+
+**Tools:** Git, GitHub, SQLite, VS Code
+
+### Featured Projects
+
+🚧 Currently working on documenting and publishing my projects.
+
+### Current Focus
+
+- Developing full-stack applications
+- Strengthening my backend development skills
+- Preparing for Software Engineering internships in 2027
+- Expanding my knowledge about AI
+  
+### Connect
+
+- [LinkedIn](https://www.linkedin.com/in/nicholas-k-egerton/)
